@@ -1,0 +1,11 @@
+Region,Age,Salary,Purchased
+Astrakhan,44,72000,No
+Murmansk,27,48000,Yes
+Stavropol,30,54000,No
+Murmansk,38,61000,No
+Stavropol,40,,Yes
+Astrakhan,35,58000,Yes
+Murmansk,,52000,No
+Astrakhan,48,79000,Yes
+Stavropol,50,83000,No
+Astrakhan,37,67000,Yes
